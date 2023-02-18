@@ -7,5 +7,5 @@
     <string name="option_okay_text">Okay (15%)</string>
     <string name="round_tip_text">Round up tip?</string>
     <string name="calculate_button_text">Calculate</string>
-    <string name="tip_result_text">Tip Amount</string>
+    <string name="tip_result_text">Tip Amount: %s</string>
 </resources>
